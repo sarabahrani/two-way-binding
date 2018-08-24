@@ -1,0 +1,14 @@
+.container {
+    width: 60%;
+    margin: auto;
+    background-color: bisque;
+    padding: 20px 40%;
+}
+
+.border {
+    border: 2px solid #000001;
+    padding: 10px;
+}
+
+.user {
+}
